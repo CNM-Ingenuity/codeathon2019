@@ -8,16 +8,20 @@ To meet fellow developers and work with them on a project, stretch our skills on
 ## Schedule and Final Submission Deadline
 A challenge theme on which to base your software will be announced Friday for Opening Night. Our sponsors will help us decide on a social or civic issue or problem to solve "for the greater good". After it's announced we’ll have some time to brainstorm, generate, and pitch ideas, then finalize teams around them.
 
-Coding can begin on Friday, October 4th at 8:00pm MST. Your final commit must be submitted by Sunday, October 6th at 12:00pm MST. Committing code after noon on Sunday may disqualify your team.
+Coding can begin on Friday, October 4th after Opening Night Orientation. Your final commit must be submitted by Sunday, October 6th at 12:00pm MST. Committing code after noon on Sunday may disqualify your team.
 
-Each team will be given about 15 minutes on Sunday afternoon to show off your code to our panel of judges.  Your team must stop committing to the repo at 12:00 MST, but you may continue working on the _presentation_ of your work to the judges until you meet with them (i.e. making elevator pitches, descriptions, or even a slide show if you wish).
+Each team will be given about 15 minutes on Sunday afternoon to show off your code to our panel of judges. Your team must stop committing to the repo at 12:00 MST, but you may continue working on the _presentation_ of your work to the judges until you meet with them (i.e. making elevator pitches, descriptions, or even a slide show if you wish).
 
 Teams must present their application in whatever state it is in at 12:00pm! So, for instance, if your last commit at noon still results in an app that is not operational, that’s how you'll need to present it.
 
 ## Winning
-The winning prototype will be selected by a panel of judges and announced on Sunday after demonstrations. The 1st, 2nd and 3rd place teams will receive cash prizes.
+The winning prototype will be selected by a panel of judges and announced on Sunday after demonstrations. All prizes will be donated by Deep Dive Coding. Cash prizes for the 1st, 2nd, and 3rd place winners include:
 
-These are awarded to the winning team, not the individuals. If you are part of a 4 person team, you will split this amount 4 ways.
+- 1st place $500 per person on the team
+- 2nd place $250 per person on the team
+- 3rd place $125 per person on the team
+
+The prize money will be awarded equally to each member of the team. A team may have 1-4 people.
 
 Each team will have an opportunity to show off their prototype with a quick ‘elevator pitch’ to all participants, and we will vote for the crowd favorite. Crowd favorite will win bonus bragging rights.
 
@@ -45,9 +49,9 @@ Competing teams should be 1-4 humans -- no celestial beings, animals or exceptio
 
 ## Remote Work
 
-We don't mind if some or all of your team would like to work remotely at any time this weekend. Free Range will not be open 24/7. More on Free Range's hours to come. Teams are encouraged to continue work on their projects from home or other locations.
+We don't mind if some or all of your team would like to work remotely at any time during the weekend. Free Range will close at 7:30pm on Friday and 5pm Saturday. Teams are encouraged to continue work on their projects from home or other locations, but we also encourage you to go home and get some sleep!
 
-However, all participants are required to be at Free Range for Opening Night registration and theme announcement, as well as on Sunday afternoon to meet with judges and participate in the prize winner announcement.  If circumstances may affect your ability to be present Friday evening and Sunday afternoon, get in touch and we'll address them on an individual basis. 
+All participants, however, are required to be at Free Range for Opening Night Registration and theme announcement, as well as on Sunday afternoon to meet with judges and participate in the prize winner announcement.  If circumstances may affect your ability to be present Friday evening and Sunday afternoon, get in touch and we'll address them on an individual basis.
 
 One of our missions for this event is to encourage a sense of community among the developers of New Mexico. We get it – not everyone can stay all weekend long. But we want to see you on Friday and Sunday - come meet the rest of the participants and take advantage of the free food, great community, and networking opportunities!
 
@@ -64,7 +68,6 @@ Our judges are proficient in a multitude of major programming languages and woul
 
 **Discouraged:**
 - Common Lisp
-- Go
 - Fortran
 - Assembly
 - Creating apps using Windows Vista OS
