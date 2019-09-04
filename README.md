@@ -1,5 +1,5 @@
 # codeathon2019
-##Coding To Complete The Blockchain
+## Coding To Complete The Blockchain
 
 Deep Dive Codeathon 2019 will be Friday October 4th through Sunday October 6th at [Free Range](https://freerangespaces.com/)!
 
