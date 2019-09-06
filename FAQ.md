@@ -10,10 +10,10 @@ Since the location is not 24/7, you can meet with your team on your own wherever
 Out of consideration for our judges' time, our limited space, and general logistics, we can't accept sign-ups for developer participants after 5:00 pm on Friday October 4th, and there are a limited number of tickets. If you're thinking about participating, buy your ticket before it's too late! [Register Now](https://www.eventbrite.com/e/deep-dive-code-a-thon-2019-tickets-63821497818)
 
 ### Does The app have to be decentralized or use blockchain?
-No. You can create any type of app you want. We will be hosting a workshop on how work with Ethereum and Solidity. Date and time TBA.
+No. You can create any type of app you want. We will, however, be hosting a workshop on how work with Ethereum and Solidity for interested participants. Date and time TBA.
 
 ### Can I code in any language?
-You may write in any language you want, but come prepared to explain your decisions to the judges. (see [Rules and Guidelines](rules-guidelines.md) for more information)
+You may write in any language you want, but come prepared to explain your decisions to the judges. (See [Rules and Guidelines](rules-guidelines.md) for more information)
 
 ### What can I win?
 All prizes will be donated by Deep Dive Coding. Cash prizes for the 1st, 2nd, and 3rd place winners include:
@@ -27,7 +27,7 @@ Participation wins you bragging rights, networking opportunities, and a potentia
 _Note: Teams may have a maximum of four participants._
 
 ### Can people from the same company/organization sign up for the same team?
-Absolutely! We want you to have fun with your friends, so you can come with others in mind that you want to work with. Your team may be asked to take on another person depending on the amount and variety of ideas generated Opening Night, but it won't be required. (see [Rules and Guidelines](rules-guidelines.md) for more information)
+Absolutely! We want you to have fun with your friends, so you can come with others in mind that you want to work with. Your team may be asked to take on another person depending on the amount and variety of ideas generated on opening night, but it won't be required. (See [Rules and Guidelines](rules-guidelines.md) for more information)
 
 ### Can I be on a team by myself?
 Sure! We encourage everyone to network and meet other developers but the rules are teams may have 1-4 people.
@@ -48,7 +48,7 @@ For general guidelines, we say:
 - _Senior level_ developers should be prepared to lead a team of mid/junior level developers.
 
 ### I have a MacBook/PC/Linux machine, will that be ok? What software programs would I need to participate?
-The Code-a-Thon is platform-agnostic -- you and your team can decide what you'll use, and all you need is a computer with a code editor to participate, any operating system. More programs may be needed depending on how your team decides to tackle the challenge, but the Rules state that only tools that are free and openly available will be allowed.
+The Codeathon is platform-agnostic -- you and your team can decide what you'll use. All you need is a computer with a code editor to participate. More programs may be needed depending on how your team decides to tackle the challenge, but the rules state that only tools that are free and openly available will be allowed.
 
 ### When do I get my money?
 "Dummy" giant checks will be awarded to winners on Sunday (just for fun and pictures), but the prize money payments may take 1-2 weeks after that to be processed. Winners will receive instructions on how to get their money after the awards ceremony.

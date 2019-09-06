@@ -6,11 +6,11 @@ To promote community amongst the growing tech scene in New Mexico.
 To meet fellow developers and work with them on a project, stretch our skills on quick prototypes or portfolio pieces, and share what we can do with like-minded developers.
 
 ## Schedule and Final Submission Deadline
-A challenge theme on which to base your software will be announced Friday for Opening Night. Our sponsors will help us decide on a social or civic issue or problem to solve "for the greater good". After it's announced we’ll have some time to brainstorm, generate, and pitch ideas, then finalize teams around them.
+A challenge theme on which to base your software will be announced Friday for opening night. Our sponsors will help us decide on a social or civic issue or problem to solve "for the greater good". After it's announced we’ll have some time to brainstorm, generate, and pitch ideas, then finalize teams around them.
 
-Coding can begin on Friday, October 4th after Opening Night Orientation. Your final commit must be submitted by Sunday, October 6th at 12:00pm MST. Committing code after noon on Sunday may disqualify your team.
+Coding can begin on Friday, October 4th after opening night orientation. Your final commit must be submitted by Sunday, October 6th at 12:00pm MST. Committing code after noon on Sunday may disqualify your team.
 
-Each team will be given about 15 minutes on Sunday afternoon to show off your code to our panel of judges. Your team must stop committing to the repo at 12:00 MST, but you may continue working on the _presentation_ of your work to the judges until you meet with them (i.e. making elevator pitches, descriptions, or even a slide show if you wish).
+Each team will be given about 15 minutes on Sunday afternoon to show off your code to our panel of judges. Your team must stop committing to the repo at 12:00pm MST, but you may continue working on the _presentation_ of your work to the judges until you meet with them (i.e. making elevator pitches, descriptions, or even a slide show if you wish).
 
 Teams must present their application in whatever state it is in at 12:00pm! So, for instance, if your last commit at noon still results in an app that is not operational, that’s how you'll need to present it.
 
@@ -51,7 +51,7 @@ Competing teams should be 1-4 humans -- no celestial beings, animals or exceptio
 
 We don't mind if some or all of your team would like to work remotely at any time during the weekend. Free Range will close at 7:30pm on Friday and 5pm Saturday. Teams are encouraged to continue work on their projects from home or other locations, but we also encourage you to go home and get some sleep!
 
-All participants, however, are required to be at Free Range for Opening Night Registration and theme announcement, as well as on Sunday afternoon to meet with judges and participate in the prize winner announcement.  If circumstances may affect your ability to be present Friday evening and Sunday afternoon, get in touch and we'll address them on an individual basis.
+All participants, however, are required to be at Free Range for opening night registration and theme announcement, as well as on Sunday afternoon to meet with judges and participate in the prize winner announcement.  If circumstances may affect your ability to be present Friday evening and Sunday afternoon, get in touch and we'll address them on an individual basis.
 
 One of our missions for this event is to encourage a sense of community among the developers of New Mexico. We get it – not everyone can stay all weekend long. But we want to see you on Friday and Sunday - come meet the rest of the participants and take advantage of the free food, great community, and networking opportunities!
 

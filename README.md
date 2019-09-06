@@ -1,4 +1,4 @@
-# codeathon2019
+# Deep Dive Code-A-Thon 2019
 ## Coding To Complete The Blockchain
 
 Deep Dive Codeathon 2019 will be Friday October 4th through Sunday October 6th at [Free Range](https://freerangespaces.com/)!
@@ -9,8 +9,8 @@ _Check out our Rules, FAQ, and Code of Conduct in the files in this repo._
 
 - [FAQs](FAQ.md)
 - [Rules and Guidelines](rules-guidelines.md)
-- [Tools and datasets](tools-and-datasets.md)
-- [Code of Conduct](code-of-conduct.md)
+- [Tools and Datasets](tools-and-datasets.md)
+- [C](code-of-conduct.md)
 
 Deep Dive Code-A-Thon Organizers and Judges reserve the right to update, edit, or otherwise make changes to these documents as needed until Friday October 4th. Final rules, regulations, and guidelines will be covered on Opening Night.
 
